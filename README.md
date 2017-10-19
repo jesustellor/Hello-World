@@ -1,3 +1,4 @@
 # Hello-World
 Intro to the world
-Making the world a better place.. learn what you can.
+we need to make a change
+Making the world better.. learn what you can.
